@@ -1,0 +1,24 @@
+{
+  "name": "jamil",
+  "version": "1.0.0",
+  "description": "Show my resume using npx command",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamilHijjawi/my-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "jamil"
+  ],
+  "author": "Jamil Hijjawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamilHijjawi/my-resume/issues"
+  },
+  "homepage": "https://github.com/JamilHijjawi/my-resume#readme"
+}
