@@ -2,7 +2,7 @@
   "name": "jamil",
   "version": "1.0.1",
   "description": "Show my resume using npx command",
-  "main": "index.js",
+  "main": "cli.js",
   "bin": "./cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
