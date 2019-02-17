@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JamilHijjawi/my-resume/issues"
   },
-  "homepage": "https://github.com/JamilHijjawi/my-resume#readme"
+  "homepage": "https://github.com/JamilHijjawi/my-resume#readme",
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  }
 }
