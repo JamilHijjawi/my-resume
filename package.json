@@ -1,6 +1,6 @@
 {
   "name": "jamil",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Show my resume using npx command",
   "main": "cli.js",
   "bin": "./cli.js",
